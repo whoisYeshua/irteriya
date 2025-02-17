@@ -1,0 +1,21 @@
+{
+  "name": "irteriya",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "task_1",
+    "task_2",
+    "task_3"
+  ],
+  "scripts": {
+    "start:1": "npm start -w task_1",
+    "start:2": "npm start -w task_2",
+    "start:3": "npm start -w task_3"
+  },
+  "author": "",
+  "license": "ISC",
+  "packageManager": "npm@10.5.0",
+  "devDependencies": {
+    "typescript": "5.8.1-rc"
+  }
+}

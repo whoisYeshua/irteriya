@@ -1,0 +1,10 @@
+{
+  "name": "@irteriya/task_3",
+  "type": "module",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "dependencies": {
+    "tinybench": "^3.1.1"
+  }
+}
